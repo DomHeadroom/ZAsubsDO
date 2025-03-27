@@ -1,4 +1,4 @@
-# Parte Diamond Is Unbreakable (Parte 4) - Sottotitoli
+# Diamond Is Unbreakable (Parte 4) - Sottotitoli
 
 ## 📜 **Tabella dei Checksum e Episodi**
 

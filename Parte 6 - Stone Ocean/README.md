@@ -1,4 +1,4 @@
-# Parte Stone Ocean (Parte 6) - Sottotitoli
+# Stone Ocean (Parte 6) - Sottotitoli
 
 ## 📜 **Tabella dei Checksum e Episodi**
 

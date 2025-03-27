@@ -1,10 +1,10 @@
-# Parte Battle Tendency (Parte 2) - Sottotitoli
+# Battle Tendency (Parte 2) - Sottotitoli
 
 ## 📜 **Tabella dei Checksum e Episodi**
 
 | Episodio | Checksum SHA-256     |
 |----------|----------------------|
-| 1        | [Inserisci checksum]    |
+| 1        | [Inserisci checksum]    |s
 | 2        | [Inserisci checksum]    |
 | 3        | [Inserisci checksum]    |
 | 4        | [Inserisci checksum]    |

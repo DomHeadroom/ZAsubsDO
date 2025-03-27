@@ -1,4 +1,4 @@
-# Parte Stardust Crusaders (Parte 3) - Sottotitoli
+# Stardust Crusaders (Parte 3) - Sottotitoli
 
 ## 📜 **Tabella dei Checksum e Episodi**
 

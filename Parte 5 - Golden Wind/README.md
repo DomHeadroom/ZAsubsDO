@@ -1,4 +1,4 @@
-# Parte Golden Wind (Parte 5) - Sottotitoli
+# Golden Wind (Parte 5) - Sottotitoli
 
 ## 📜 **Tabella dei Checksum e Episodi**
 

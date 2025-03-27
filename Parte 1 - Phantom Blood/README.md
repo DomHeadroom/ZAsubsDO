@@ -1,4 +1,4 @@
-# Parte Phantom Blood (Parte 1) - Sottotitoli
+# Phantom Blood (Parte 1) - Sottotitoli
 
 ## 📜 **Tabella dei Checksum e Episodi**
 
