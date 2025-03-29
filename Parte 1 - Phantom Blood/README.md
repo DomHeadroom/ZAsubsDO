@@ -1,8 +1,8 @@
 # Phantom Blood (Parte 1) - Sottotitoli
 
-## 📜 **Tabella Episodi con Checksum**
+## 📜 **Tabella Episodi con Checksum del video del video**
 
-| Episodio | Nome Episodio                          | Checksum CRC32       |
+| Episodio | Nome                                   | CRC-32               |
 |----------|----------------------------------------|----------------------|
 | 1        | Dio l'invasore                         | 367B99F3             |
 | 2        | Una lettera dal passato                | [Inserisci checksum] |
