@@ -1,4 +1,4 @@
-# ZAsubsDO
+# ZAsubsDO <img src="https://github.com/user-attachments/assets/b13f8d95-ddd1-4ff3-8e2b-b7855c0263ce" alt="jojo-menacing" width="30"/>
 
 📺 **Benvenuto!** Questo repository contiene sottotitoli in italiano per l'edizione Blu-ray in lingua inglese dell'anime *Le Bizzarre Avventure di JoJo*.
 
